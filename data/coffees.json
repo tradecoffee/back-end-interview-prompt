@@ -1,0 +1,1204 @@
+{
+  "coffees": [
+    {
+      "id": 7749,
+      "name": "Andorra Blend",
+      "score": 0.4835,
+      "is_decaf": false
+    },
+    {
+      "id": 1708,
+      "name": "USA Blend",
+      "score": 0.10716,
+      "is_decaf": false
+    },
+    {
+      "id": 1910,
+      "name": "ABC Blend",
+      "score": 0.52445,
+      "is_decaf": true
+    },
+    {
+      "id": 2491,
+      "name": "Antigua and Barbuda Blend",
+      "score": 0.83724,
+      "is_decaf": false
+    },
+    {
+      "id": 2747,
+      "name": "Anguilla Blend",
+      "score": 0.60597,
+      "is_decaf": false
+    },
+    {
+      "id": 8461,
+      "name": "Albania Blend",
+      "score": 0.64366,
+      "is_decaf": false
+    },
+    {
+      "id": 4412,
+      "name": "Armenia Blend",
+      "score": 0.0813,
+      "is_decaf": true
+    },
+    {
+      "id": 6254,
+      "name": "Angola Blend",
+      "score": 0.70852,
+      "is_decaf": false
+    },
+    {
+      "id": 5645,
+      "name": "Antarctica Blend",
+      "score": 0.99003,
+      "is_decaf": false
+    },
+    {
+      "id": 5596,
+      "name": "Argentina Blend",
+      "score": 0.351,
+      "is_decaf": false
+    },
+    {
+      "id": 4397,
+      "name": "American Samoa Blend",
+      "score": 0.89007,
+      "is_decaf": false
+    },
+    {
+      "id": 3191,
+      "name": "Austria Blend",
+      "score": 0.24656,
+      "is_decaf": false
+    },
+    {
+      "id": 2811,
+      "name": "Australia Blend",
+      "score": 0.68355,
+      "is_decaf": false
+    },
+    {
+      "id": 6504,
+      "name": "Aruba Blend",
+      "score": 0.5859,
+      "is_decaf": false
+    },
+    {
+      "id": 5044,
+      "name": "Åland Islands Blend",
+      "score": 0.75109,
+      "is_decaf": false
+    },
+    {
+      "id": 6030,
+      "name": "Azerbaijan Blend",
+      "score": 0.09435,
+      "is_decaf": false
+    },
+    {
+      "id": 5799,
+      "name": "Bosnia and Herzegovina Blend",
+      "score": 0.59548,
+      "is_decaf": false
+    },
+    {
+      "id": 8136,
+      "name": "Barbados Blend",
+      "score": 0.46876,
+      "is_decaf": false
+    },
+    {
+      "id": 3375,
+      "name": "Bangladesh Blend",
+      "score": 0.66758,
+      "is_decaf": false
+    },
+    {
+      "id": 2602,
+      "name": "Belgium Blend",
+      "score": 0.964,
+      "is_decaf": false
+    },
+    {
+      "id": 8907,
+      "name": "Burkina Faso Blend",
+      "score": 0.12822,
+      "is_decaf": false
+    },
+    {
+      "id": 1549,
+      "name": "Bulgaria Blend",
+      "score": 0.5292,
+      "is_decaf": false
+    },
+    {
+      "id": 2786,
+      "name": "Bahrain Blend",
+      "score": 0.76895,
+      "is_decaf": false
+    },
+    {
+      "id": 5110,
+      "name": "Burundi Blend",
+      "score": 0.67569,
+      "is_decaf": false
+    },
+    {
+      "id": 3583,
+      "name": "Benin Blend",
+      "score": 0.5815,
+      "is_decaf": false
+    },
+    {
+      "id": 3652,
+      "name": "Saint Barthélemy Blend",
+      "score": 0.47061,
+      "is_decaf": false
+    },
+    {
+      "id": 6103,
+      "name": "Bermuda Blend",
+      "score": 0.25577,
+      "is_decaf": false
+    },
+    {
+      "id": 7568,
+      "name": "Brunei Darussalam Blend",
+      "score": 0.57581,
+      "is_decaf": false
+    },
+    {
+      "id": 4661,
+      "name": "Bolivia Blend",
+      "score": 0.49761,
+      "is_decaf": false
+    },
+    {
+      "id": 4560,
+      "name": "Saba Blend",
+      "score": 0.0192,
+      "is_decaf": false
+    },
+    {
+      "id": 4306,
+      "name": "Brazil Blend",
+      "score": 0.49042,
+      "is_decaf": false
+    },
+    {
+      "id": 7027,
+      "name": "Bahamas Blend",
+      "score": 0.22411,
+      "is_decaf": false
+    },
+    {
+      "id": 6262,
+      "name": "Bhutan Blend",
+      "score": 0.87865,
+      "is_decaf": false
+    },
+    {
+      "id": 1722,
+      "name": "Bouvet Island Blend",
+      "score": 0.47506,
+      "is_decaf": false
+    },
+    {
+      "id": 4728,
+      "name": "Botswana Blend",
+      "score": 0.50219,
+      "is_decaf": false
+    },
+    {
+      "id": 2683,
+      "name": "Belarus Blend",
+      "score": 0.41175,
+      "is_decaf": false
+    },
+    {
+      "id": 4841,
+      "name": "Belize Blend",
+      "score": 0.31057,
+      "is_decaf": true
+    },
+    {
+      "id": 1373,
+      "name": "Canada Blend",
+      "score": 0.53758,
+      "is_decaf": false
+    },
+    {
+      "id": 8577,
+      "name": "Cocos (Keeling) Islands Blend",
+      "score": 0.49467,
+      "is_decaf": false
+    },
+    {
+      "id": 4589,
+      "name": "Congo Blend",
+      "score": 0.89159,
+      "is_decaf": false
+    },
+    {
+      "id": 8356,
+      "name": "CAR Blend",
+      "score": 0.47486,
+      "is_decaf": false
+    },
+    {
+      "id": 1467,
+      "name": "Congo Blend",
+      "score": 0.74795,
+      "is_decaf": false
+    },
+    {
+      "id": 8473,
+      "name": "Switzerland Blend",
+      "score": 0.88495,
+      "is_decaf": false
+    },
+    {
+      "id": 5782,
+      "name": "Côte d'Ivoire Blend",
+      "score": 0.55419,
+      "is_decaf": false
+    },
+    {
+      "id": 2117,
+      "name": "Cook Islands Blend",
+      "score": 0.25961,
+      "is_decaf": false
+    },
+    {
+      "id": 5994,
+      "name": "Chile Blend",
+      "score": 0.21451,
+      "is_decaf": false
+    },
+    {
+      "id": 5634,
+      "name": "Cameroon Blend",
+      "score": 0.98751,
+      "is_decaf": false
+    },
+    {
+      "id": 2661,
+      "name": "Country Blend",
+      "score": 0.03733,
+      "is_decaf": false
+    },
+    {
+      "id": 7991,
+      "name": "Colombia Blend",
+      "score": 0.94927,
+      "is_decaf": false
+    },
+    {
+      "id": 3741,
+      "name": "Costa Rica Blend",
+      "score": 0.62034,
+      "is_decaf": false
+    },
+    {
+      "id": 3872,
+      "name": "Cuba Blend",
+      "score": 0.89957,
+      "is_decaf": false
+    },
+    {
+      "id": 3982,
+      "name": "Cape Verde Blend",
+      "score": 0.81166,
+      "is_decaf": false
+    },
+    {
+      "id": 2430,
+      "name": "Curaçao Blend",
+      "score": 0.1472,
+      "is_decaf": false
+    },
+    {
+      "id": 7021,
+      "name": "Christmas Blend",
+      "score": 0.08154,
+      "is_decaf": false
+    },
+    {
+      "id": 4209,
+      "name": "Cyprus Blend",
+      "score": 0.21948,
+      "is_decaf": false
+    },
+    {
+      "id": 3948,
+      "name": "Republic Blend",
+      "score": 0.32966,
+      "is_decaf": false
+    },
+    {
+      "id": 5187,
+      "name": "Germany Blend",
+      "score": 0.45833,
+      "is_decaf": false
+    },
+    {
+      "id": 1209,
+      "name": "Djibouti Blend",
+      "score": 0.68582,
+      "is_decaf": false
+    },
+    {
+      "id": 4524,
+      "name": "Denmark Blend",
+      "score": 0.11109,
+      "is_decaf": false
+    },
+    {
+      "id": 2947,
+      "name": "Dominica Blend",
+      "score": 0.37073,
+      "is_decaf": false
+    },
+    {
+      "id": 6856,
+      "name": "Dominican Republic Blend",
+      "score": 0.32627,
+      "is_decaf": false
+    },
+    {
+      "id": 2469,
+      "name": "Algeria Blend",
+      "score": 0.35135,
+      "is_decaf": false
+    },
+    {
+      "id": 4102,
+      "name": "Ecuador Blend",
+      "score": 0.28125,
+      "is_decaf": false
+    },
+    {
+      "id": 4905,
+      "name": "Estonia Blend",
+      "score": 0.49939,
+      "is_decaf": false
+    },
+    {
+      "id": 2410,
+      "name": "Egypt Blend",
+      "score": 0.06992,
+      "is_decaf": false
+    },
+    {
+      "id": 3493,
+      "name": "Western Sahara Blend",
+      "score": 0.14102,
+      "is_decaf": false
+    },
+    {
+      "id": 5712,
+      "name": "Eritrea Blend",
+      "score": 0.77423,
+      "is_decaf": false
+    },
+    {
+      "id": 2523,
+      "name": "Spain Blend",
+      "score": 0.6932,
+      "is_decaf": false
+    },
+    {
+      "id": 2285,
+      "name": "Ethiopia Blend",
+      "score": 0.7508,
+      "is_decaf": true
+    },
+    {
+      "id": 5207,
+      "name": "Finland Blend",
+      "score": 0.06012,
+      "is_decaf": true
+    },
+    {
+      "id": 2849,
+      "name": "Fiji Blend",
+      "score": 0.94165,
+      "is_decaf": false
+    },
+    {
+      "id": 7337,
+      "name": "Islands Blend",
+      "score": 0.95559,
+      "is_decaf": false
+    },
+    {
+      "id": 2979,
+      "name": "Micro Blend",
+      "score": 0.81533,
+      "is_decaf": false
+    },
+    {
+      "id": 6685,
+      "name": "Faroe Islands Blend",
+      "score": 0.12611,
+      "is_decaf": false
+    },
+    {
+      "id": 8490,
+      "name": "France Blend",
+      "score": 0.5787,
+      "is_decaf": false
+    },
+    {
+      "id": 4433,
+      "name": "Gabon Blend",
+      "score": 0.57189,
+      "is_decaf": false
+    },
+    {
+      "id": 2997,
+      "name": "United Kingdom Blend",
+      "score": 0.46208,
+      "is_decaf": false
+    },
+    {
+      "id": 3534,
+      "name": "Grenada Blend",
+      "score": 0.28006,
+      "is_decaf": false
+    },
+    {
+      "id": 7375,
+      "name": "Georgia Blend",
+      "score": 0.55322,
+      "is_decaf": false
+    },
+    {
+      "id": 7692,
+      "name": "French Guiana Blend",
+      "score": 0.79918,
+      "is_decaf": false
+    },
+    {
+      "id": 7742,
+      "name": "Guernsey Blend",
+      "score": 0.89022,
+      "is_decaf": false
+    },
+    {
+      "id": 4646,
+      "name": "Ghana Blend",
+      "score": 0.69239,
+      "is_decaf": false
+    },
+    {
+      "id": 3774,
+      "name": "Gibraltar Blend",
+      "score": 0.52101,
+      "is_decaf": false
+    },
+    {
+      "id": 4005,
+      "name": "Greenland Blend",
+      "score": 0.26215,
+      "is_decaf": false
+    },
+    {
+      "id": 2193,
+      "name": "Gambia Blend",
+      "score": 0.23035,
+      "is_decaf": false
+    },
+    {
+      "id": 4224,
+      "name": "Guinea Blend",
+      "score": 0.04049,
+      "is_decaf": false
+    },
+    {
+      "id": 2856,
+      "name": "Guadeloupe Blend",
+      "score": 0.80306,
+      "is_decaf": true
+    },
+    {
+      "id": 2538,
+      "name": "Equatorial Guinea Blend",
+      "score": 0.73206,
+      "is_decaf": false
+    },
+    {
+      "id": 4143,
+      "name": "Greece Blend",
+      "score": 0.51687,
+      "is_decaf": true
+    },
+    {
+      "id": 1961,
+      "name": "Sandwich Islands Blend",
+      "score": 0.56057,
+      "is_decaf": false
+    },
+    {
+      "id": 1220,
+      "name": "Guatemala Blend",
+      "score": 0.31686,
+      "is_decaf": false
+    },
+    {
+      "id": 4681,
+      "name": "Guam Blend",
+      "score": 0.12944,
+      "is_decaf": false
+    },
+    {
+      "id": 4996,
+      "name": "Guinea-Bissau Blend",
+      "score": 0.75951,
+      "is_decaf": false
+    },
+    {
+      "id": 8282,
+      "name": "Guyana Blend",
+      "score": 0.1847,
+      "is_decaf": false
+    },
+    {
+      "id": 6674,
+      "name": "HK Blend",
+      "score": 0.03299,
+      "is_decaf": false
+    },
+    {
+      "id": 1817,
+      "name": "Heard Blend",
+      "score": 0.91439,
+      "is_decaf": false
+    },
+    {
+      "id": 4574,
+      "name": "Honduras Blend",
+      "score": 0.55249,
+      "is_decaf": false
+    },
+    {
+      "id": 4488,
+      "name": "Croatia Blend",
+      "score": 0.28012,
+      "is_decaf": false
+    },
+    {
+      "id": 1996,
+      "name": "Haiti Blend",
+      "score": 0.08274,
+      "is_decaf": false
+    },
+    {
+      "id": 3737,
+      "name": "Hungary Blend",
+      "score": 0.22103,
+      "is_decaf": false
+    },
+    {
+      "id": 1548,
+      "name": "Indonesia Blend",
+      "score": 0.42194,
+      "is_decaf": false
+    },
+    {
+      "id": 4698,
+      "name": "Ireland Blend",
+      "score": 0.46583,
+      "is_decaf": false
+    },
+    {
+      "id": 1361,
+      "name": "Middle Blend",
+      "score": 0.01104,
+      "is_decaf": false
+    },
+    {
+      "id": 2286,
+      "name": "Isle of Man Blend",
+      "score": 0.83584,
+      "is_decaf": false
+    },
+    {
+      "id": 7034,
+      "name": "India Blend",
+      "score": 0.17152,
+      "is_decaf": false
+    },
+    {
+      "id": 4403,
+      "name": "Ocean Blend",
+      "score": 0.9103,
+      "is_decaf": false
+    },
+    {
+      "id": 4272,
+      "name": "Blendy Blend",
+      "score": 0.96578,
+      "is_decaf": false
+    },
+    {
+      "id": 4790,
+      "name": "Yummo Blend",
+      "score": 0.0681,
+      "is_decaf": false
+    },
+    {
+      "id": 3987,
+      "name": "Iceland Blend",
+      "score": 0.01785,
+      "is_decaf": false
+    },
+    {
+      "id": 6278,
+      "name": "Italy Blend",
+      "score": 0.82042,
+      "is_decaf": false
+    },
+    {
+      "id": 2424,
+      "name": "Jersey Blend",
+      "score": 0.45425,
+      "is_decaf": true
+    },
+    {
+      "id": 2027,
+      "name": "Jamaica Blend",
+      "score": 0.85476,
+      "is_decaf": true
+    },
+    {
+      "id": 6282,
+      "name": "Jordan Blend",
+      "score": 0.34596,
+      "is_decaf": true
+    },
+    {
+      "id": 6425,
+      "name": "Japan Blend",
+      "score": 0.20773,
+      "is_decaf": true
+    },
+    {
+      "id": 3355,
+      "name": "Kenya Blend",
+      "score": 0.44553,
+      "is_decaf": false
+    },
+    {
+      "id": 6876,
+      "name": "Kyrgyzstan Blend",
+      "score": 0.06638,
+      "is_decaf": false
+    },
+    {
+      "id": 7668,
+      "name": "Cambodia Blend",
+      "score": 0.95657,
+      "is_decaf": false
+    },
+    {
+      "id": 5001,
+      "name": "Kiribati Blend",
+      "score": 0.36384,
+      "is_decaf": false
+    },
+    {
+      "id": 7333,
+      "name": "Comoros Blend",
+      "score": 0.70307,
+      "is_decaf": false
+    },
+    {
+      "id": 4813,
+      "name": "Saint Kitts and Nevis Blend",
+      "score": 0.84061,
+      "is_decaf": false
+    },
+    {
+      "id": 4232,
+      "name": "Korea Blend",
+      "score": 0.97476,
+      "is_decaf": false
+    },
+    {
+      "id": 8325,
+      "name": "OK Blend",
+      "score": 0.88603,
+      "is_decaf": false
+    },
+    {
+      "id": 7586,
+      "name": "Kuwait Blend",
+      "score": 0.39322,
+      "is_decaf": false
+    },
+    {
+      "id": 3750,
+      "name": "Cayman Islands Blend",
+      "score": 0.10023,
+      "is_decaf": false
+    },
+    {
+      "id": 5187,
+      "name": "Kazakhstan Blend",
+      "score": 0.60041,
+      "is_decaf": false
+    },
+    {
+      "id": 2107,
+      "name": "Loud Blend",
+      "score": 0.57695,
+      "is_decaf": false
+    },
+    {
+      "id": 5287,
+      "name": "Lebanon Blend",
+      "score": 0.05469,
+      "is_decaf": false
+    },
+    {
+      "id": 7368,
+      "name": "Saint Lucia Blend",
+      "score": 0.22972,
+      "is_decaf": false
+    },
+    {
+      "id": 5139,
+      "name": "Liechtenstein Blend",
+      "score": 0.61724,
+      "is_decaf": false
+    },
+    {
+      "id": 3358,
+      "name": "Sri Lanka Blend",
+      "score": 0.94422,
+      "is_decaf": false
+    },
+    {
+      "id": 5582,
+      "name": "Liberia Blend",
+      "score": 0.35053,
+      "is_decaf": false
+    },
+    {
+      "id": 5383,
+      "name": "Lesotho Blend",
+      "score": 0.4461,
+      "is_decaf": false
+    },
+    {
+      "id": 8730,
+      "name": "Lithuania Blend",
+      "score": 0.03247,
+      "is_decaf": false
+    },
+    {
+      "id": 5481,
+      "name": "Luxembourg Blend",
+      "score": 0.4104,
+      "is_decaf": false
+    },
+    {
+      "id": 8188,
+      "name": "Latvia Blend",
+      "score": 0.30714,
+      "is_decaf": true
+    },
+    {
+      "id": 8041,
+      "name": "Libya Blend",
+      "score": 0.04564,
+      "is_decaf": false
+    },
+    {
+      "id": 5535,
+      "name": "Morocco Blend",
+      "score": 0.2629,
+      "is_decaf": false
+    },
+    {
+      "id": 3250,
+      "name": "Monaco Blend",
+      "score": 0.45005,
+      "is_decaf": false
+    },
+    {
+      "id": 7374,
+      "name": "Moldova Blend",
+      "score": 0.13815,
+      "is_decaf": false
+    },
+    {
+      "id": 5136,
+      "name": "Montenegro Blend",
+      "score": 0.0008,
+      "is_decaf": false
+    },
+    {
+      "id": 3371,
+      "name": "Saint Martin Blend",
+      "score": 0.43416,
+      "is_decaf": false
+    },
+    {
+      "id": 6327,
+      "name": "Madagascar Blend",
+      "score": 0.69247,
+      "is_decaf": false
+    },
+    {
+      "id": 5212,
+      "name": "Marshall Islands Blend",
+      "score": 0.79298,
+      "is_decaf": false
+    },
+    {
+      "id": 1450,
+      "name": "Macedonia Blend",
+      "score": 0.39964,
+      "is_decaf": false
+    },
+    {
+      "id": 4157,
+      "name": "Mali Blend",
+      "score": 0.0502,
+      "is_decaf": false
+    },
+    {
+      "id": 1102,
+      "name": "Myanmar Blend",
+      "score": 0.99711,
+      "is_decaf": false
+    },
+    {
+      "id": 7158,
+      "name": "Mongolia Blend",
+      "score": 0.02972,
+      "is_decaf": false
+    },
+    {
+      "id": 3284,
+      "name": "Macao Blend",
+      "score": 0.49063,
+      "is_decaf": false
+    },
+    {
+      "id": 4109,
+      "name": "Mariana Blend",
+      "score": 0.6981,
+      "is_decaf": false
+    },
+    {
+      "id": 4411,
+      "name": "Martinique Blend",
+      "score": 0.66696,
+      "is_decaf": false
+    },
+    {
+      "id": 3280,
+      "name": "Mauritania Blend",
+      "score": 0.77313,
+      "is_decaf": false
+    },
+    {
+      "id": 5835,
+      "name": "Montserrat Blend",
+      "score": 0.58932,
+      "is_decaf": false
+    },
+    {
+      "id": 2048,
+      "name": "Malta Blend",
+      "score": 0.10823,
+      "is_decaf": false
+    },
+    {
+      "id": 8288,
+      "name": "Mauritius Blend",
+      "score": 0.41833,
+      "is_decaf": true
+    },
+    {
+      "id": 8167,
+      "name": "Maldives Blend",
+      "score": 0.50326,
+      "is_decaf": false
+    },
+    {
+      "id": 2557,
+      "name": "Malawi Blend",
+      "score": 0.0793,
+      "is_decaf": false
+    },
+    {
+      "id": 8322,
+      "name": "Mexico Blend",
+      "score": 0.52964,
+      "is_decaf": false
+    },
+    {
+      "id": 4972,
+      "name": "Malaysia Blend",
+      "score": 0.73397,
+      "is_decaf": false
+    },
+    {
+      "id": 8811,
+      "name": "Mozambique Blend",
+      "score": 0.90225,
+      "is_decaf": false
+    },
+    {
+      "id": 7007,
+      "name": "Namibia Blend",
+      "score": 0.01016,
+      "is_decaf": false
+    },
+    {
+      "id": 7289,
+      "name": "New Caledonia Blend",
+      "score": 0.04004,
+      "is_decaf": false
+    },
+    {
+      "id": 2799,
+      "name": "Niger Blend",
+      "score": 0.08172,
+      "is_decaf": false
+    },
+    {
+      "id": 8664,
+      "name": "Norfolk Island Blend",
+      "score": 0.42095,
+      "is_decaf": false
+    },
+    {
+      "id": 8599,
+      "name": "Nigeria Blend",
+      "score": 0.73345,
+      "is_decaf": false
+    },
+    {
+      "id": 4314,
+      "name": "Nicaragua Blend",
+      "score": 0.17233,
+      "is_decaf": false
+    },
+    {
+      "id": 7057,
+      "name": "Netherlands Blend",
+      "score": 0.08781,
+      "is_decaf": true
+    },
+    {
+      "id": 1348,
+      "name": "Norway Blend",
+      "score": 0.07735,
+      "is_decaf": false
+    },
+    {
+      "id": 5182,
+      "name": "Nepal Blend",
+      "score": 0.59932,
+      "is_decaf": true
+    },
+    {
+      "id": 2606,
+      "name": "Nauru Blend",
+      "score": 0.40289,
+      "is_decaf": false
+    },
+    {
+      "id": 1177,
+      "name": "Niue Blend",
+      "score": 0.40453,
+      "is_decaf": false
+    },
+    {
+      "id": 7527,
+      "name": "New Zealand Blend",
+      "score": 0.83679,
+      "is_decaf": false
+    },
+    {
+      "id": 2251,
+      "name": "Oman Blend",
+      "score": 0.1934,
+      "is_decaf": false
+    },
+    {
+      "id": 2604,
+      "name": "Panama Blend",
+      "score": 0.35245,
+      "is_decaf": false
+    },
+    {
+      "id": 5931,
+      "name": "Peru Blend",
+      "score": 0.29178,
+      "is_decaf": false
+    },
+    {
+      "id": 7099,
+      "name": "French Polynesia Blend",
+      "score": 0.99506,
+      "is_decaf": false
+    },
+    {
+      "id": 2127,
+      "name": "Papua New Guinea Blend",
+      "score": 0.91631,
+      "is_decaf": false
+    },
+    {
+      "id": 8552,
+      "name": "Philippines Blend",
+      "score": 0.52876,
+      "is_decaf": false
+    },
+    {
+      "id": 3280,
+      "name": "Pakistan Blend",
+      "score": 0.21887,
+      "is_decaf": false
+    },
+    {
+      "id": 5910,
+      "name": "Poland Blend",
+      "score": 0.9166,
+      "is_decaf": false
+    },
+    {
+      "id": 8167,
+      "name": "Saint Pierre and Miquelon Blend",
+      "score": 0.12955,
+      "is_decaf": false
+    },
+    {
+      "id": 5133,
+      "name": "Pitcairn Blend",
+      "score": 0.29069,
+      "is_decaf": false
+    },
+    {
+      "id": 2332,
+      "name": "tate Blend",
+      "score": 0.81911,
+      "is_decaf": false
+    },
+    {
+      "id": 1535,
+      "name": "Portugal Blend",
+      "score": 0.77112,
+      "is_decaf": false
+    },
+    {
+      "id": 1606,
+      "name": "Palau Blend",
+      "score": 0.93422,
+      "is_decaf": false
+    },
+    {
+      "id": 1298,
+      "name": "Paraguay Blend",
+      "score": 0.27175,
+      "is_decaf": false
+    },
+    {
+      "id": 4928,
+      "name": "Qatar Blend",
+      "score": 0.06888,
+      "is_decaf": false
+    },
+    {
+      "id": 2593,
+      "name": "Réunion Blend",
+      "score": 0.81076,
+      "is_decaf": false
+    },
+    {
+      "id": 8584,
+      "name": "Romania Blend",
+      "score": 0.37037,
+      "is_decaf": false
+    },
+    {
+      "id": 7447,
+      "name": "Serbia Blend",
+      "score": 0.19358,
+      "is_decaf": false
+    },
+    {
+      "id": 4723,
+      "name": "Federation Blend",
+      "score": 0.81032,
+      "is_decaf": false
+    },
+    {
+      "id": 3432,
+      "name": "Rwanda Blend",
+      "score": 0.93589,
+      "is_decaf": false
+    },
+    {
+      "id": 2000,
+      "name": "Saudi Arabia Blend",
+      "score": 0.31516,
+      "is_decaf": false
+    },
+    {
+      "id": 8937,
+      "name": "Solomon Islands Blend",
+      "score": 0.8696,
+      "is_decaf": false
+    },
+    {
+      "id": 6705,
+      "name": "Seychelles Blend",
+      "score": 0.09701,
+      "is_decaf": false
+    },
+    {
+      "id": 5847,
+      "name": "Sudan Blend",
+      "score": 0.10919,
+      "is_decaf": true
+    },
+    {
+      "id": 7727,
+      "name": "Sweden Blend",
+      "score": 0.17177,
+      "is_decaf": false
+    },
+    {
+      "id": 7904,
+      "name": "Singapore Blend",
+      "score": 0.82548,
+      "is_decaf": false
+    },
+    {
+      "id": 2372,
+      "name": "Saint Helena Blend",
+      "score": 0.92799,
+      "is_decaf": true
+    },
+    {
+      "id": 7623,
+      "name": "Slovenia Blend",
+      "score": 0.16398,
+      "is_decaf": false
+    },
+    {
+      "id": 1935,
+      "name": "Svalbard Blend",
+      "score": 0.90292,
+      "is_decaf": false
+    }
+  ]
+}
