@@ -1,6 +1,6 @@
 # Trade Back End Interview Prompt
 
-##  Part 1 (Ruby / Sort Algorithm)
+##  Part 1
 
 First things first, let’s write that recommendation logic! Given a list of ~200 coffees (See: `data/coffees.json` file (~22kb)), let’s write a program that fulfills these requirements:
 
